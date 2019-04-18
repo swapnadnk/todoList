@@ -1,0 +1,12 @@
+.btn {
+    flex: 1;
+}
+
+.title {
+    flex: 10;
+    padding: 5px;
+}
+
+form {
+    display: flex;
+}
